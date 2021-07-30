@@ -1,0 +1,23 @@
+.honda-bg-colour{
+    background-color: #264653;
+}
+.honda-btn-private{
+    color: white;
+    border-radius: 5px;
+    padding: 9px 25px;
+    border: none;
+    background-color: #E76F51;
+}
+.honda-btn-private-gap{
+    color: #E76F51;
+    border: 1px solid #E76F51;
+    border-radius: 5px;
+    padding: 9px 25px;
+    background-color: white;
+}
+.honda-headline{
+    color: #E76F51;
+}
+.star-fill{
+    color: #E76F51;
+}
